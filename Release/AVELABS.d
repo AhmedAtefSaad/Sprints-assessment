@@ -1,0 +1,1 @@
+AVELABS.o AVELABS.o: ../AVELABS.c
